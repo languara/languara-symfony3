@@ -1,8 +1,8 @@
 <?php
 
-// Languara Symfony Plugin Configuration
+// Languara Symfony3 Plugin Configuration
 // For more information visit http://languara.com
-// (c) 2015 - Languara.  All rights reserved.
+// (c) 2016 - Languara.  All rights reserved.
 //
 
 return array(
@@ -22,7 +22,7 @@ return array(
         'static_resources' => '/config/static_resources.php',
     ),
     "origin_site" => "https://languara.com/",
-    "platform" => "Symfony",
+    "platform" => "Symfony3",
     "messages" => array(
         // error messages
         'error_language_location' => 'ERROR: Language location is not set correctly, check the config file or download a new config file from Languara and replace the old one!',
