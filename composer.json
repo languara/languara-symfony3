@@ -1,5 +1,5 @@
 {
-    "name": "languara/symfony",
+    "name": "languara/symfony3",
     "keywords": ["Languara", "Symfony", "Translation", "Localization", "Localize", "Internationalization", "Internationalize", "Translate", "l10n", "i18n"],
     "homepage": "https://languara.com/localization/symfony",
     "description": "Languara localization plugin for Symfony 2.x. Easily upload, translate, and synchronize your language content using Languara's Cloud Based Translation Management Platform.",
